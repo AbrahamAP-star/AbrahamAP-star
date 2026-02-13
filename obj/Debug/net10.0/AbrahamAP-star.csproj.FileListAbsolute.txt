@@ -1,0 +1,15 @@
+/workspaces/AbrahamAP-star/bin/Debug/net10.0/AbrahamAP-star
+/workspaces/AbrahamAP-star/bin/Debug/net10.0/AbrahamAP-star.deps.json
+/workspaces/AbrahamAP-star/bin/Debug/net10.0/AbrahamAP-star.runtimeconfig.json
+/workspaces/AbrahamAP-star/bin/Debug/net10.0/AbrahamAP-star.dll
+/workspaces/AbrahamAP-star/bin/Debug/net10.0/AbrahamAP-star.pdb
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.AssemblyInfoInputs.cache
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.AssemblyInfo.cs
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.csproj.CoreCompileInputs.cache
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.sourcelink.json
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.dll
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/refint/AbrahamAP-star.dll
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.pdb
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/AbrahamAP-star.genruntimeconfig.cache
+/workspaces/AbrahamAP-star/obj/Debug/net10.0/ref/AbrahamAP-star.dll
